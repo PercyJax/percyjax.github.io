@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpercyjax_com=self.webpackChunkpercyjax_com||[]).push([[678],{704:function(e,c,n){n.r(c),n.d(c,{default:function(){return o}});var r=n(294);function o(){return r.createElement("h1",null,"Hello, world! More to come soon! -PercyJax")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-abb0f7a9796d71fdb833.js.map
